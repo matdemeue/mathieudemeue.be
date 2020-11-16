@@ -2,7 +2,7 @@
     {
         "title": "Dieetdagboek",
         "projectClient": "Privé project",
-        "description": "Dieetdogboek voor mijn diëtist waar elke dag mijn kcal geraadpleegd kunnen worden alsook een gewichtsverloop via Plotly.",
+        "description": "Dieetdagboek voor mijn diëtist waar elke dag mijn kcal geraadpleegd kunnen worden alsook een gewichtsverloop via Plotly.",
         "website": "https://dieet.mathieudemeue.be",
         "ghrepo": "https://github.com/matdemeue/react-dieetdagboek",
         "techUsed": ["NextJS", "Vercel", "Bootstrap", "Plotly"]
