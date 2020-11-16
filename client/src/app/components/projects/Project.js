@@ -17,8 +17,8 @@ const Project = ({ data }) => {
                     <h6 className="card-subtitle mb-2 text-muted">{data.projectClient}</h6>
                     <p className="card-text flex-grow-1">{data.description}</p>
                     <div className="card-links">
-                        {data.website ? <a href={data.website} className="card-link text-dark">Bekijk website</a> : ''}
-                        {data.ghrepo ? <a href={data.techUsed} className="card-link text-dark">Bekijk Github repo</a> : ''}
+                        {data.website ? <a href={data.website} className="card-link text-dark" target="_blank">Bekijk website</a> : ''}
+                        {data.ghrepo ? <a href={data.techUsed} className="card-link text-dark" target="_blank">Bekijk Github repo</a> : ''}
                     </div>
                 </div>
             </div>
