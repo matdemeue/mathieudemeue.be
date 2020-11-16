@@ -1,16 +1,16 @@
 [
     {
-        "title": "Dieet Dagboek",
+        "title": "Dieetdagboek",
         "projectClient": "Privé project",
-        "description": "Dieetlogboek voor mijn Diëtist waar elke dag mijn kcal geraadpleegd kunnen worden alsook een gewichtsverloop via Plotly.",
+        "description": "Dieetdogboek voor mijn diëtist waar elke dag mijn kcal geraadpleegd kunnen worden alsook een gewichtsverloop via Plotly.",
         "website": "https://dieet.mathieudemeue.be",
         "ghrepo": "https://github.com/matdemeue/react-dieetdagboek",
         "techUsed": ["NextJS", "Vercel", "Bootstrap", "Plotly"]
     },
     {
-        "title": "Dieet Dagboek - REST API",
+        "title": "Dieetdagboek - REST API",
         "projectClient": "Privé project",
-        "description": "REST api die gebruikt wordt voor mijn dieetdagboek. Haalt data op van mijn MyFitnesspal account en geeft deze weer als JSON objedten.",
+        "description": "REST api die gebruikt wordt voor mijn dieetdagboek. Haalt data op van mijn MyFitnesspal account en geeft deze weer als JSON objecten.",
         "ghrepo": "https://github.com/matdemeue/api-dieetdagboek",
         "techUsed": ["Flask", "Heroku", "REST api"]
     },
