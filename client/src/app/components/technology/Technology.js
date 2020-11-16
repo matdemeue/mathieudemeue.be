@@ -6,14 +6,14 @@ const Technology = ({ data }) => {
 
     return (
         <div className="col-12 col-md-4 col-lg-4">
-            <div class="card mb-3">
-                <div class="row no-gutters">
-                    <div class="col-4 card-img card_tech-img">
+            <div className="card mb-3">
+                <div className="row no-gutters">
+                    <div className="col-4 card-img card_tech-img">
                         {data.icon}
                     </div>
-                    <div class="col-8">
-                        <div class="card-body">
-                            <h5 class="card-title mb-0">{data.name}</h5>
+                    <div className="col-8">
+                        <div className="card-body">
+                            <h5 className="card-title mb-0">{data.name}</h5>
                         </div>
                     </div>
                 </div>
