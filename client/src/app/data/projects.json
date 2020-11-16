@@ -4,28 +4,28 @@
         "projectClient": "Privé project",
         "description": "Dieetdagboek voor mijn diëtist waar elke dag mijn kcal geraadpleegd kunnen worden alsook een gewichtsverloop via Plotly.",
         "website": "https://dieet.mathieudemeue.be",
-        "ghrepo": "https://github.com/matdemeue/react-dieetdagboek",
+        "ghrepo": "https://github.com/matdemeue/dieetdagboek_react_nextjs",
         "techUsed": ["NextJS", "Vercel", "Bootstrap", "Plotly"]
     },
     {
         "title": "Dieetdagboek - REST API",
         "projectClient": "Privé project",
         "description": "REST api die gebruikt wordt voor mijn dieetdagboek. Haalt data op van mijn MyFitnesspal account en geeft deze weer als JSON objecten.",
-        "ghrepo": "https://github.com/matdemeue/api-dieetdagboek",
+        "ghrepo": "https://github.com/matdemeue/dieetdagboek_api-python-flask",
         "techUsed": ["Flask", "Heroku", "REST api"]
     },
     {
         "title": "Spotify imitatie",
         "projectClient": "School project",
         "description": "GraphQL api waarbij gebruikers liedjes en afspeellijsten kunnen toevoegen. Hierna kunnen liedjes aan bepaalde afspeellijsten gekoppeld worden.",
-        "ghrepo": "https://github.com/matdemeue/2021-PGM4-spotify_graphql_api",
+        "ghrepo": "https://github.com/matdemeue/spotify_imitatie-graphql",
         "techUsed": ["Apollo Server", "MongoDB"]
     },
     {
         "title": "ACNH Villager Viewer",
         "projectClient": "School project",
         "description": "Villager viewer voor het Nintendo Switch spel Animal Crossing. Mogelijkheid tot real-time filteren op naam en het bekijken van de details.",
-        "website": "https://git.mathieudemeue.be/1920-PGM3-eindopdracht/",
+        "website": "https://git.mathieudemeue.be/villager_viewer-react-firebase",
         "ghrepo": "https://github.com/matdemeue/1920-PGM3-eindopdracht",
         "techUsed": ["CreateReactApp", "Firebase"]
     },
