@@ -5,7 +5,7 @@ import './Footer.scss';
 
 const Footer = () => {
 
-    const dateObject = new Date;
+    const dateObject = new Date();
     const yearAtTheMoment = dateObject.getFullYear();
 
     return (
@@ -14,7 +14,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-12">
                         <div className="footer_content d-flex justify-content-center">
-                            <p className="text-light text-uppercase mb-0">{yearAtTheMoment == '2020' ? yearAtTheMoment : `2020 - ${yearAtTheMoment}`} - Made with ❤️ by Mathieu De Meue</p>
+                            <p className="text-light text-uppercase mb-0">{yearAtTheMoment === '2020' ? yearAtTheMoment : `2020 - ${yearAtTheMoment}`} - Made with ❤️ by Mathieu De Meue</p>
                         </div>
                     </div>
                 </div>
