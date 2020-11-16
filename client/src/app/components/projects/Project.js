@@ -5,11 +5,11 @@ import './Project.scss';
 const Project = ({ data }) => {
 
     return (
-        <div className="col-lg-4">
-            <div class="card bg_light">
+        <div className="col-12 col-md-6 col-lg-6">
+            <div class="card card_project bg_light">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">{data.title}</h5>
-                    <div className="card-categories mb-3">
+                    <div className="card_project-categories mb-3">
                         {data.techUsed.map((tech, i) =>
                             <span class="badge badge-dark" key={i}>{tech}</span>
                         )}
