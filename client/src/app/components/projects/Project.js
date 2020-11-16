@@ -1,7 +1,5 @@
 import React from 'react';
 
-import profielfoto from '../../images/general/mathieu.jpg';
-
 import './Project.scss';
 
 const Project = ({ data }) => {
