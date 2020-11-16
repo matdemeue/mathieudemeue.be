@@ -11,7 +11,7 @@ const Hero = () => {
         <div className="hero">
             <div className="container">
                 <div className="row">
-                    <div className="col-12 col-lg-4 d-flex align-items-center pr-lg-5">
+                    <div className="col-12 col-lg-4 d-flex align-items-center justify-content-center pr-lg-5">
                         <div className="profile__picture">
                             <img src={profielfoto} alt="Profielfoto Mathieu" />
                         </div>

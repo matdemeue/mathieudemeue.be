@@ -1,5 +1,5 @@
 .hero {
-    padding: 115px 0 100px 0;
+    padding: 100px 0 100px 0;
 }
 
 .profile__picture {
@@ -9,5 +9,16 @@
 
         border-radius: 50%;
         border: 5px solid white;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .profile__picture {
+        display: flex;
+
+        img {
+            width: 300px;
+            height: 300px;
+        }
     }
 }
