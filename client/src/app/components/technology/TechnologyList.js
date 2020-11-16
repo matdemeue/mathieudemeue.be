@@ -5,7 +5,7 @@ import Technology from './Technology';
 
 import { GrGraphQl, GrHtml5, GrReactjs, GrSpotify, GrNode, GrGithub, GrWordpress } from 'react-icons/gr';
 import { DiCss3, DiJavascript1, DiNpm, DiSass } from 'react-icons/di';
-import { SiVisualstudiocode, SiNetlify } from 'react-icons/si';
+import { SiVisualstudiocode } from 'react-icons/si';
 
 const TechnologyList = () => {
 
