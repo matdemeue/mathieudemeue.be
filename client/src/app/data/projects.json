@@ -2,29 +2,29 @@
     {
         "title": "Dieet Dagboek",
         "projectClient": "Privé project",
-        "description": "Lorem ipsum bla bla bla Lorem ipsum bla bla bla Lorem ipsum bla bla bla Lorem ipsum bla bla bla",
+        "description": "Dieetlogboek voor mijn Diëtist waar elke dag mijn kcal geraadpleegd kunnen worden alsook een gewichtsverloop via Plotly.",
         "website": "https://dieet.mathieudemeue.be",
         "ghrepo": "https://github.com/matdemeue/react-dieetdagboek",
-        "techUsed": ["NextJS", "Vercel", "Bootstrap"]
+        "techUsed": ["NextJS", "Vercel", "Bootstrap", "Plotly"]
     },
     {
         "title": "Dieet Dagboek - REST API",
         "projectClient": "Privé project",
-        "description": "Lorem ipsum bla bla bla",
+        "description": "REST api die gebruikt wordt voor mijn dieetdagboek. Haalt data op van mijn MyFitnesspal account en geeft deze weer als JSON objedten.",
         "ghrepo": "https://github.com/matdemeue/api-dieetdagboek",
         "techUsed": ["Flask", "Heroku", "REST api"]
     },
     {
         "title": "Spotify imitatie",
         "projectClient": "School project",
-        "description": "Lorem ipsum bla bla bla",
+        "description": "GraphQL api waarbij gebruikers liedjes en afspeellijsten kunnen toevoegen. Hierna kunnen liedjes aan bepaalde afspeellijsten gekoppeld worden.",
         "ghrepo": "https://github.com/matdemeue/2021-PGM4-spotify_graphql_api",
         "techUsed": ["Apollo Server", "MongoDB"]
     },
     {
         "title": "ACNH Villager Viewer",
         "projectClient": "School project",
-        "description": "Lorem ipsum bla bla bla",
+        "description": "Villager viewer voor het Nintendo Switch spel Animal Crossing. Mogelijkheid tot real-time filteren op naam en het bekijken van de details.",
         "website": "https://git.mathieudemeue.be/1920-PGM3-eindopdracht/",
         "ghrepo": "https://github.com/matdemeue/1920-PGM3-eindopdracht",
         "techUsed": ["CreateReactApp", "Firebase"]
@@ -32,7 +32,7 @@
     {
         "title": "Salt 'n Pepper by Mathieu",
         "projectClient": "School project",
-        "description": "Lorem ipsum bla bla bla",
+        "description": "Foodblog door mezelf! Project als eindwerk voor een tweedejaars vak gemaakt in PHP en MySQL.",
         "ghrepo": "https://github.com/matdemeue/2021-AIT2-eindopdracht",
         "techUsed": ["PHP", "MySql", "MAMP"]
     }
